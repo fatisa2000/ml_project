@@ -1,4 +1,4 @@
 the difference between 'Untitled3.ipynb' file( which is phase1 )and 'phase1_modify.ipynb' file was only in fitting x to the model, which was forgotten due to the rush to upload the file. I hope you will ignore it.
 And as you can see, the label of some data in the clusters changed after fitting the model
 
-ps: I am doing the project alone, please be kind to me
+ps: I did the project alone, please be kind to me
